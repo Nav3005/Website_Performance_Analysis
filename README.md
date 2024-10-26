@@ -43,8 +43,8 @@ pip install pandas numpy matplotlib seaborn statsmodels pmdarima
 ### Usage
 1. **Clone the repository** and navigate to the project directory:
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone <https://github.com/Nav3005/Website_Performance_Analysis>
+    cd <TSA_ARIMA_SARIMA.ipynb>
     ```
 
 2. **Run the Jupyter Notebook**:
